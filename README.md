@@ -6,7 +6,7 @@ Le 22 juin 2024, dans la soirée, un meurtre a été commis. L’objectif de ce 
 
 - **L'identité du meurtrier**
 - **L'arme du crime**
-- **La raison de la mort**
+- **La cause du décès**
 - **Le lieu du meurtre**
 
 Pour résoudre cette enquête, nous disposons de 8 fichiers CSV qui contiennent des informations importantes. Chaque fichier représente une dimension clé de l'enquête.
