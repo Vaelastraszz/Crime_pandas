@@ -11,6 +11,9 @@ Le 22 juin 2024, dans la soirée, un meurtre a été commis. L’objectif de ce 
 
 Pour résoudre cette enquête, nous disposons de 8 fichiers CSV qui contiennent des informations importantes. Chaque fichier représente une dimension clé de l'enquête.
 
+<img width="1146" alt="Screenshot 2024-09-12 at 16 06 33" src="https://github.com/user-attachments/assets/5a722eca-f8b3-4406-a914-db6c2edae265">
+
+
 ## Description des Fichiers CSV
 
 1. **armes.csv**  
